@@ -13,21 +13,21 @@ import javax.swing.JApplet;
 import javax.swing.JOptionPane;
 
 /* +---------------------------------------------------------------------------------------------------------+
- * | Julien Dhouti (julien@email.virginia.edu)																 															 |
- * | Period 2																								 																								 |
- * | 05/11/2016																							 	 																							 |
- * | This program is a simple game of Tic Tac Toe. It does not contain an AI and requires 2 players to play. |
- * | It keeps tracks of each player's wins and displays them momentarily before the program is exited.		 	 |
- * | It also rotates the player's turns. If a player wins one game, the losing player will get to play first |
- * | in the next one.																						 																						 |
+ * | Julien Dhouti (julien@email.virginia.edu)
+ * | Period 2
+ * | 05/11/2016
+ * | This program is a simple game of Tic Tac Toe. It does not contain an AI and requires 2 players to play.
+ * | It keeps tracks of each player's wins and displays them momentarily before the program is exited.
+ * | It also rotates the player's turns. If a player wins one game, the losing player will get to play first
+ * | in the next one.
  * +---------------------------------------------------------------------------------------------------------+
- * | 534 lines of code.																						 																					 |
- * | Please critique my code and message or email me about improvements I could make in the following:		 	 |
- * |		- Style/Syntax																					 																						 |
- * |		- Optimization																					 																						 |
- * |		- Algorithms																					 																							 |
- * |		- Extra features																				 																						 |
- * | Thank you <3																						     																						 |
+ * | 534 lines of code.
+ * | Please critique my code and message or email me about improvements I could make in the following:
+ * |		- Style/Syntax
+ * |		- Optimization
+ * |		- Algorithms
+ * |		- Extra features
+ * | Thank you <3
  * +---------------------------------------------------------------------------------------------------------+
  */
 
