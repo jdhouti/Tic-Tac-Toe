@@ -13,4 +13,11 @@ correct directory when doing this.
     ```unix
     $java TicTacToe
     ```
-**Note**: Java needs to be installed on the respective computer to run this program.
+**Note**: Java needs to be installed on the respective computer to run this program along with the *open jdk* by typing `sudo apt-get install openjdk-7-jdk` in your Unix shell.
+
+## Features
+* Supports 2 local players that must play on the same computer.
+* A scoring system that keeps track of the amount wins, losses and ties for both players.
+* Two different colors to represent each player's pieces.
+
+**Note**: To request new features, please submit an issue with the _**feature**_ tag.
