@@ -31,9 +31,9 @@ correct directory when doing this.
 ## Features
 
 * Supports 2 local players that must play on the same computer.
-* A scoring system that keeps track of the amount wins, losses and ties for both players.
+* A scoring system that keeps track of the amount of wins, losses and ties for both players.
 * Two different colors to represent each player's pieces.
 
 ## Built With
 
-* [Eclipse](https://eclipse.org) - The IDE used
+* [Eclipse](https://eclipse.org) - The IDE
